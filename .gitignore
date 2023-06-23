@@ -1,0 +1,14 @@
+*/node_modules
+/node_modules/
+/npm-debug.log
+opsworks.js
+log
+uploads/*
+coverage/
+.eslintcache
+.idea/
+.vscode/
+.log
+*.log
+.env
+.git/
